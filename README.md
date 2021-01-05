@@ -69,6 +69,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/harshitbadolla})
-- Twitter [@your-twitter](https://{twitter.com/code__bros})
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+- GitHub [@harshitbadolla](https://www.github.com/harshitbadollacodes)
+- Twitter [@code__bros](https://www.twitter.com/code__bros)
