@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://hb-404-lading-page.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/harshitbadollacodes/404-landing-page}">
       Solution
     </a>
     <span> | </span>
@@ -36,24 +36,21 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
 <img src="./screenshot.jpeg" alt="404-page">
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - Where can I see your demo?
+You can see the demo by clicking [here](https://hb-404-lading-page.netlify.app/)
+
 - What was your experience?
+The challenge was to create a 404 landing page. I made use of flexbox to achieve the results. I had learnt about CSS flexbox and this challenge helped me check my thorough knowledge on the same. 
+
 - What have you learned/improved?
-- Your wisdom? :)
+While using flexbox, make sure you specify the widths of the child element or else the justify-content: space-betweem would not work.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Features
 
@@ -73,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://{github.com/harshitbadolla})
+- Twitter [@your-twitter](https://{twitter.com/code__bros})
